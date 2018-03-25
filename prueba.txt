@@ -1,0 +1,10 @@
+Swift es un lenguaje de programacion multiproposito creado y desarrollado por 
+Chris Lattner junto con varios desarrolladores de Apple Inc, se inicio su 
+desarrollo en 2010,
+aunque fue oficialmente mostrado en la Apple Worldwide Developers 
+Conference en el 2014. (Bueno hubiera sido en el 2002 para que fuera palindromo.)
+
+ A veces es dificil RECONOcEr palabras palindomos como Sometemos o rayar
+
+Fue creado para ser ejecutado sobre los sistemas operativos IOS, OS X, 
+watchOS and tvOS, aunque actualmente puede ser ejecutado en Linux y Windows.
