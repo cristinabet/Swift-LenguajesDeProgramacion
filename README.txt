@@ -21,11 +21,10 @@
 
 6. Ejecutar el archivo generado con el comando ./ProyectoSwift
 
-** Si da un error de librerias, y es necesario instalar libicu52, Descargar 
-desde https://www.ubuntuupdates.org/package/core/trusty/main/updates/libicu52 
-e instalar el archivo descargado libicu52_52.1-3ubuntu0.7_amd64.deb (64bits) copiando 
-el archivo en el directorio /Swift/swift-4.0.3-RELEASE-ubuntu14.04/usr/bin y 
-ejecutando en consola el comando sudo dpkg -i libicu52_52.1-3ubuntu0.7_amd64.deb
+** Si da un error de librerias, y es necesario instalar libicu5, instalar el archivo 
+adjunto libicu52_52.1-3ubuntu0.7_amd64.deb (64bits) copiando el archivo en el 
+directorio /Swift/swift-4.0.3-RELEASE-ubuntu14.04/usr/bin y ejecutando en consola 
+el comando sudo dpkg -i libicu52_52.1-3ubuntu0.7_amd64.deb
 Luego volver a compilar el proyecto **
 
 
