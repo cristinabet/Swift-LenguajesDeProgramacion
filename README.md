@@ -17,7 +17,7 @@ Proyecto realizado para la materia Lenguajes de programacion en la universidad S
 
 4. Copiar los siguientes archivos en el directorio 
    /Swift/swift-4.0.3-RELEASE-ubuntu14.04/usr/bin
-   -- ProyectoSwift
+   -- ProyectoSwift.swift
    -- prueba.txt
 
 5. Compilar el archivo con el comando ./swiftc ProyectoSwift.swift 
